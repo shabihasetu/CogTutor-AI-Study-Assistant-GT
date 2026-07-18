@@ -47,6 +47,6 @@ streamlit run app.py
 
 The complete IEEE-format project report for the Georgia Tech CS 6795 Cognitive Science course is available below.
 
-CogTutor Final Project Report.pdf
+report/CogTutor Final Project Report.pdf  
 
 
