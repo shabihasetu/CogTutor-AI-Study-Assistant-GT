@@ -16,7 +16,7 @@ How does an AI study assistant that integrates guided questioning, self-explanat
 | Reflection prompt | Metacognition | Monitoring understanding |
 | Delayed final answer | Cognitive forcing/productive effort | Reduced passive AI reliance |
 
-## Run locally
+## How To Run locally
 
 1. Install Python 3.10 or newer.
 2. Open a terminal in this folder.
@@ -43,6 +43,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## Project Report
 
+The complete IEEE-format project report for the Georgia Tech CS 6795 Cognitive Science course is available below.
+
+CogTutor Final Project Report.pdf
 
 
